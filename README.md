@@ -1,4 +1,4 @@
-<p align="left">With two years of experience as a Software Engineer, I specialize in Drupal and React technologies. Have worked on multiple headless projects which use React for frontend and Drupal for backend. I'm proud to have contributed significantly to the Drupal community through the creation of the "Multisite Easy Commands" module on Drupal.org. This module reflects my commitment to simplifying multisite management within the Drupal ecosystem. Beyond Drupal, I bring expertise in React to craft engaging and responsive user interfaces. My innovative mindset and technical proficiency make me a valuable asset for teams seeking a dynamic blend of skills and problem-solving capabilities.</p>
+<p align="left">With two years of experience as a Software Engineer, I specialize in <em>Drupal</em> and <em>React</em> technologies. Have worked on multiple <em>headless</em> projects which use React for frontend and Drupal for backend. I'm proud to have contributed significantly to the Drupal community through the creation of the "Multisite Easy Commands" module on Drupal.org. This module reflects my commitment to simplifying multisite management within the Drupal ecosystem. Beyond Drupal, I bring expertise in React to craft engaging and responsive user interfaces. My innovative mindset and technical proficiency make me a valuable asset for teams seeking a dynamic blend of skills and problem-solving capabilities.</p>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="40" alt="drupal logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
